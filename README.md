@@ -1,4 +1,4 @@
-# 🫁 Lung Cancer Survival Prediction using Machine Learning
+#  Lung Cancer Survival Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
@@ -10,7 +10,7 @@ This project applies **data analysis and classification algorithms** to identify
 
 ---
 
-# 📊 Project Objective
+#  Project Objective
 
 The objective of this project is to build a **predictive system** that determines the survival probability of a lung cancer patient based on clinical and lifestyle features such as:
 
@@ -24,7 +24,7 @@ The system uses **Machine Learning models** to analyze the data and predict pati
 
 ---
 
-# 📂 Dataset Description
+#  Dataset Description
 
 The dataset contains detailed medical and lifestyle information about lung cancer patients.
 
@@ -50,7 +50,7 @@ The dataset contains detailed medical and lifestyle information about lung cance
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 * Python
 * Pandas
@@ -62,7 +62,7 @@ The dataset contains detailed medical and lifestyle information about lung cance
 
 ---
 
-# 🤖 Machine Learning Approach
+#  Machine Learning Approach
 
 The project follows the standard **Machine Learning workflow**:
 
@@ -77,11 +77,11 @@ The project follows the standard **Machine Learning workflow**:
 
 Model Used:
 
-🏆 **Random Forest Classifier**
+ **Random Forest Classifier**
 
 ---
 
-# 📊 Data Analysis & Visualization
+#  Data Analysis & Visualization
 
 Exploratory Data Analysis includes:
 
@@ -100,7 +100,7 @@ Key factors affecting survival include:
 
 ---
 
-# 📈 Model Performance
+#  Model Performance
 
 Evaluation metrics used:
 
@@ -112,7 +112,7 @@ The model successfully predicts patient survival with strong performance using t
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 lung-cancer-survival-prediction
@@ -126,7 +126,7 @@ lung-cancer-survival-prediction
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 Clone the repository:
 
@@ -147,7 +147,7 @@ Run the notebook in:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Tarun Kohli**
 
@@ -159,6 +159,6 @@ https://github.com/tarunkohli-297
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful, please consider **starring the repository** ⭐
